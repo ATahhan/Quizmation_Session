@@ -22,7 +22,7 @@ class StartViewController: UIViewController {
     
     private func loadQuestions() {
         do {
-            let url = Bundle.main.url(forResource: "questions", withExtension: "json")!
+            let url = Bundle.main.url(forResource: "data", withExtension: "json")!
             let data = try Data.init(contentsOf: url)
             questions = try JSONDecoder().decode([Question].self, from: data)
         } catch {
