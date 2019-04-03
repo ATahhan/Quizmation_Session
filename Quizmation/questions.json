@@ -1,0 +1,53 @@
+
+[
+    {
+        "answer": 1,
+        "title": "What is the house number of the Simpsons?",
+        "options": [
+            "923",
+            "742",
+            "House F4",
+            "23-4"
+        ]
+    },
+    {
+        "answer": 0,
+        "title": "What color is cobalt?",
+        "options": [
+            "Blue",
+            "Red",
+            "Green",
+            "Black"
+        ]
+    },
+    {
+        "answer": 1,
+        "title": "In which sport can you win the Davis Cup?",
+        "options": [
+            "Golf",
+            "Tennis",
+            "Volleyball",
+            "Football"
+        ]
+    },
+    {
+        "answer": 3,
+        "title": "After which animals are the Canary Islands named?",
+        "options": [
+            "Dolores",
+            "Cats",
+            "Birds",
+            "Dogs"
+        ]
+    },
+    {
+        "answer": 3,
+        "title": "What is the real meaning of the Greek word Pita?",
+        "options": [
+            "Knife",
+            "Potato",
+            "Pasta",
+            "Bread"
+        ]
+    }
+]
